@@ -3,7 +3,7 @@
 <!-- Altere a Flag abaixo com sua URL do Travis -->
 <!-- [![Build Status](https://travis-ci.com/tiago-falcao12/DevOpsLab-HelloWorld.svg?branch=master)](https://travis-ci.com/tiago-falcao12/DevOpsLab-HelloWorld) -->
 
-https://travis-ci.com/tiago-falcao12/DevOpsLab-HelloWorld.svg?branch=master
+[![Build Status](https://travis-ci.com/tiago-falcao12/DevOpsLab-HelloWorld.svg?branch=master)](https://travis-ci.com/tiago-falcao12/DevOpsLab-HelloWorld)
 
 ## Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps
 
