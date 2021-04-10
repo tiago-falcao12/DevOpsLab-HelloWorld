@@ -1,4 +1,4 @@
-from app import app
+from aplicacao import app
 import unittest
 
 class Test(unittest.TestCase):
